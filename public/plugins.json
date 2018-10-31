@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ChatVisualNotificationsPlugin",
+    "version": "0.0.0",
+    "class": "ChatVisualNotificationsPlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1.0.0"
+      }
+    ],
+    "src": "http://localhost:8080/plugin-chat-visual-notifications.js"
+  }
+]
